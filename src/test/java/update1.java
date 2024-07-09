@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 public class update1 {
 
     public static void main(String[] args)
@@ -6,6 +8,8 @@ public class update1 {
     System.out.println("update2");
 
     //new Line
+
+    System.out.println("Feature 1 branch added");
 }
 
 }
