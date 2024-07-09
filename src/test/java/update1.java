@@ -4,6 +4,8 @@ public class update1 {
 
 {
     System.out.println("update2");
+
+    //new Line
 }
 
 }
